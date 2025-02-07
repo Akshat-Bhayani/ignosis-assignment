@@ -3,6 +3,22 @@
     "axios": "^1.7.9",
     "react-router": "^7.1.5",
     "react-router-dom": "^7.1.5",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^4.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
