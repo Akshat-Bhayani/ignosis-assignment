@@ -1,1 +1,1 @@
-# ignosis-assignment
+To run : npm start
